@@ -1,2 +1,4 @@
 this is file one.
-Added another line
+Added another line.
+Adding new feature
+another one
